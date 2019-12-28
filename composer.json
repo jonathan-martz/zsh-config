@@ -1,0 +1,17 @@
+{
+  "name": "jonathan-martz/zsh-config",
+  "description": "Collection of zsh config for use on multiple pcs, laptops and servers",
+  "license": "MIT",
+  "require": {
+    "php": "^7.1|^7.2|^7.3|^7.4",
+    "ext-json": "*"
+  },
+  "authors": [
+    {
+      "name": "Jonathan Martz",
+      "email": "composer@jmartz.de",
+      "homepage": "https://www.jmartz.de",
+      "role": "Developer"
+    }
+  ]
+}
